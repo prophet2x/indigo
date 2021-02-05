@@ -2,22 +2,19 @@
 name: Benjamin Eckert
 bio: Musician, student, hobbyist luthier
 
-# twitter summary info
-description: A blog about technology and stuff related
-
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/profile.jpeg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
 url: https://sergiokopplin.github.io/indigo
-# your url: https://USERNAME.github.io
+# your url: https://prophet2x.github.io
 
 permalink: /:title/
 
