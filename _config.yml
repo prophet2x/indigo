@@ -4,7 +4,7 @@ bio: Musician, student, hobbyist luthier
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
+external-image: true
 picture: assets/images/profile.jpeg
 
 # If you want to include your resume, set to true
